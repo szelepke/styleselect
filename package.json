@@ -1,5 +1,5 @@
 {
-  "name": "@szelepke/styleselect",
+  "name": "@szelep/styleselect",
   "version": "1.0.4",
   "main": "js/styleselect.js",
   "devDependencies": {
