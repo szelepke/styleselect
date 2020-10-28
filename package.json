@@ -1,5 +1,5 @@
 {
-  "name": "styleselect",
+  "name": "@szelepke/styleselect",
   "version": "1.0.2",
   "main": "js/styleselect.js",
   "devDependencies": {
@@ -12,6 +12,19 @@
     "gulp-connect": "^2.0.6",
     "gulp-sass": "^1.1.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {},
+  "description": "Style select is:",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szelepke/styleselect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szelepke/styleselect/issues"
+  },
+  "homepage": "https://github.com/szelepke/styleselect#readme"
 }
