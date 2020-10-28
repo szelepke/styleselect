@@ -154,10 +154,10 @@
 	return function(selector) {
 
 		// Use native selects (which pop up large native UIs to go through the options ) on iOS/Android
-		if ( navigator.userAgent.match( /iPad|iPhone|Android/i ) ) {
+	/*	if ( navigator.userAgent.match( /iPad|iPhone|Android/i ) ) {
 			return
 		}
-
+	*/
 		var realSelect = typeof selector == 'object' ? selector : query(selector),
 			realOptions = realSelect.children,
 			selectedIndex = realSelect.selectedIndex,
