@@ -21,8 +21,8 @@
     "type": "git",
     "url": "git+https://github.com/szelepke/styleselect.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "szelepke",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/szelepke/styleselect/issues"
   },
