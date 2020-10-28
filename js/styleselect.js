@@ -152,7 +152,6 @@
 	// The 'styleSelect' main function
 	// selector:String - CSS selector for the select box to style
 	return function(selector) {
-
 		// Use native selects (which pop up large native UIs to go through the options ) on iOS/Android
 	/*	if ( navigator.userAgent.match( /iPad|iPhone|Android/i ) ) {
 			return
